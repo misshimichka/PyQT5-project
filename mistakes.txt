@@ -1,0 +1,8 @@
+(2) 11011001 - 1001101 = 10001100, your answer: 
+(16) 100 - C7 = 39, your answer: 
+(8) 374 - 54 = 320, your answer: 
+(2) 1100101 - 110010 = 110011, your answer: 
+(16) 2C + 44 = 70, your answer: 
+(16) 63 + 66 = c9, your answer: 
+(8) 242 - 137 = 103, your answer: 
+(8) 60 + 374 = 454, your answer: 
