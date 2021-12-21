@@ -8,7 +8,9 @@ This program can:
 - test your knowledge in this topic
 - help you and your students in learning numeric operations
 
-The main.exe file is in /dist/main directory
+How to open:
+- download all files form this repo as a ZIP file
+- the main.exe file is in /dist/main directory
 
 If you want to use this project, please mention me as a main developer
 
