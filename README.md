@@ -1,6 +1,8 @@
 # PyQT5-project
 PyQT5 project about operations with number systems
+
 Language: Russian
+
 Computer language: Python
 
 This program can:
